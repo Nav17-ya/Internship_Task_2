@@ -9,3 +9,4 @@ Steps for EDA
 5. boxplots for numeric data
 6. correlation matrix and heatmap
 7. pairplot for feature realtionships
+8. observation and inference
